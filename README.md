@@ -2,7 +2,7 @@
 This repository documents my hands-on learning journey in Artificial Intelligence and machine Learning using Python.
 I am Practicing core Libraries required for AI/ML development on ubuntu.
 # What's inside
--numpy.ipynb-Numpy basics,arrays,operations\n
+-numpy.ipynb-Numpy basics,arrays,operations
 -pandas.ipynb-Data manipulation and analysis with Pandas
 -matplotlib.ipynb-Data Visualization with Matplotlib
 -pytorch.ipynb-Deep Learning fundamentals with PyTorch
