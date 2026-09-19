@@ -10,6 +10,7 @@ I am Practicing core Libraries required for AI/ML development on ubuntu.
 -torch.ipynb-PyTorch tensors and operations
 # Tech stack
 -Python 3
+pytorch
 -Numpy,Pandas,Matplotlib
 -Pytorch,Tensorflow
 -Jupyter  Notebook
